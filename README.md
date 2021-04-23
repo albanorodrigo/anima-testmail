@@ -1,5 +1,5 @@
 # anima-testmail
-Proyecto de Test utilización de PHP Mailer
+<h1>Proyecto de Test utilización de PHP Mailer</h1>
 
 
 En el siguiente proyecto utilizamos PHP Mailer para realizar envíos de Email desde PHP.
